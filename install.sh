@@ -22,7 +22,7 @@ fi
 # Clear screen
 clear
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "${BG}         AUTOSCRIPT INSTALLATION         ${NC}"
+echo -e "${BG}         AUTOSCRIPT INSTALLATION BY : DEFEBS VPN         ${NC}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e ""
 
